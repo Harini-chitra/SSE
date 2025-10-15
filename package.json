@@ -1,0 +1,16 @@
+{
+  "name": "inventory-management-system",
+  "version": "1.0.0",
+  "description": "Full Inventory Management API for SSE Lab",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.11.3"
+  }
+}
